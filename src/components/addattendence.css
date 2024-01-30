@@ -1,0 +1,66 @@
+/* Updated CSS */
+
+/* Ensuring the container holds the table properly */
+.add-container {
+  background-color: darkcyan;
+  display: block;
+  justify-content: center; /* Center horizontally */
+  align-items: center; /* Center vertically */
+  height: 100vh; /* For demonstration purposes, adjust the height accordingly */
+  margin: 0px 100px 100px
+}
+
+.add-main-body{
+  display:list-item;
+  margin-left: 275px;
+}
+
+/* Styles for the table and its elements */
+.attendance-table {
+  text-align: center; /* Align table content center */
+  width: 800px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse; /* Remove border spacing */
+}
+
+th,
+td {
+  padding: 8px; /* Adjust spacing within table cells */
+  border: 1px solid white; /* Add borders */
+}
+
+.tr-data {
+  color: white;
+}
+
+.tr-head {
+  color: white;
+  background-color: #333;
+}
+
+.main-heading {
+  color: white;
+  margin-bottom:30px;
+}
+
+.time-heading {
+  color: white;
+  /* margin-top: 50px; */
+  text-align: left;
+  padding: 20px 0px 0px 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+

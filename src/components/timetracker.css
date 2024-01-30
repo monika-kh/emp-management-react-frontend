@@ -1,0 +1,74 @@
+.container {
+    display: block;
+    justify-content: center;
+    /* Center horizontally */
+    align-items: center;
+    /* Center vertically */
+    height: 100vh;
+    /* For demonstration purposes, adjust the height accordingly */
+    margin: 0px 100px 100px
+        /* padding:  */
+}
+
+.heading-tag-1 {
+    color: white;
+    margin-left: 500px;
+    text-align: center
+}
+
+.heading-tag-2 {
+    color: white
+}
+
+.flex-container {
+    display: flex;
+    justify-content: space-between;
+    width: 60%;
+}
+
+.text-box {
+    width: 50%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.clock-class {
+    border-width: 5px !important;
+    border-color: rgb(0, 10, 25) !important;
+    background-color: white;
+}
+
+.col-dark {
+    color: darkgoldenrod !important;
+}
+
+.date-time {
+    margin: 25px 15px
+}
+
+
+.formatted-time-box {
+    background-color: white;
+    padding: 10px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.formatted-time {
+    font-size: 40px;
+    color: darkgoldenrod;
+    margin: 0;
+}
+
+.sign-up-button{
+    background-color: white !important;
+    margin-left: 235px;
+    color: darkgoldenrod !important
+}
+
+.card-text-style {
+    color: darkgoldenrod !important;
+} 
